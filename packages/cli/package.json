@@ -2,7 +2,7 @@
   "name": "@yarn-lockfile-update/cli",
   "version": "1.1.0",
   "dependencies": {
-    "@hot-loader/react-dom-v16": "npm:@hot-loader/react-dom@^16.0.2",
+    "@hot-loader/react-dom-v16": "npm:@hot-loader/react-dom@^17.0.0",
     "@hot-loader/react-dom-v17": "npm:@hot-loader/react-dom@^17.0.2",
     "@types/dockerode": "^3.3.0",
     "@yarn-lockfile-update/core": "^1.0.0"
