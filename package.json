@@ -5,6 +5,9 @@
   "author": "Michael Kriese <michael.kriese@visualon.de>",
   "license": "MIT",
   "private": true,
+  "engines": {
+    "node": "14 || 16"
+  },
   "dependencies": {
     "@types/dockerode": "3.2.7"
   }
