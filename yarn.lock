@@ -22,7 +22,7 @@
     "@types/node" "*"
     "@types/ssh2" "*"
 
-"@types/dockerode@^3.2.7":
+"@types/dockerode@^3.2.7", "@types/dockerode@^3.3.0":
   version "3.3.6"
   resolved "https://registry.npmjs.org/@types/dockerode/-/dockerode-3.3.6.tgz#14b7f1f7b5d2a2d3929440c8e3d1020daf182e65"
   integrity sha512-jzL+tRwmtsqWT4owNTHmEWUexkeWLSirXFbWZzx/N5jX7hPIrbF5K8e8OPhYsqQrilqZSdcy6Y96iOXOxklvVA==
@@ -525,10 +525,10 @@ tar-stream@^2.0.0, tar-stream@^2.1.4, tar-stream@^2.2.0:
     inherits "^2.0.3"
     readable-stream "^3.1.1"
 
-testcontainers@8.6.1:
-  version "8.6.1"
-  resolved "https://registry.npmjs.org/testcontainers/-/testcontainers-8.6.1.tgz#a37b1eb938665f333594837caaed806ea51f7217"
-  integrity sha512-yRRx55tVOwExivh6BSrbZXItmRUm5qdMks1nN3n2P7n4DIJOl4VHIcI3HiRucU4hMsbT8lXx68+xQFqz3W+ZSQ==
+testcontainers@^8.1.2:
+  version "8.7.0"
+  resolved "https://registry.npmjs.org/testcontainers/-/testcontainers-8.7.0.tgz#7ce27533871e036b5cefed169261bffb0051de71"
+  integrity sha512-v6qViLob2SeSAEBUf6JwYqLhiIlwPQWbFoh6jXkIT2eQNIHptviasloogqz039Gu7LsOBXe5yvwF7Y8Q1XQaGQ==
   dependencies:
     "@balena/dockerignore" "^1.0.2"
     "@types/archiver" "^5.1.1"

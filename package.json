@@ -9,6 +9,7 @@
     "node": "14 || 16"
   },
   "dependencies": {
-    "testcontainers": "8.6.1"
+    "testcontainers": "^8.1.2",
+    "@types/dockerode": "^3.3.0"
   }
 }
