@@ -1,6 +1,6 @@
 {
   "name": "@yarn-lockfile-update/core",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "dependencies": {
     "@types/dockerode": "^3.3.0"
   }
