@@ -1,0 +1,11 @@
+{
+  "name": "yarn-lockfile-update",
+  "version": "1.0.0",
+  "repository": "https://github.com/renovate-reproductions/yarn-lockfile-update.git",
+  "author": "Michael Kriese <michael.kriese@visualon.de>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/dockerode": "3.2.7"
+  }
+}
